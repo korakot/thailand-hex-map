@@ -81,7 +81,7 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "5",
-          "NAME_1": "Buri Ram",
+          "NAME_1": "Buriram",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "บุรีรัมย์",
@@ -115,12 +115,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "7",
-          "NAME_1": "Chai Nat",
+          "NAME_1": "Chainat",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "ชัยนาท",
           "ISO": 18,
-          "VARNAME_1": "Chainat"
+          "VARNAME_1": "Chai Nat"
         }
       }, {
         "type": "Polygon",
@@ -337,12 +337,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "12",
-          "NAME_1": "Chon Buri",
+          "NAME_1": "Chonburi",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "ชลบุรี",
           "ISO": 20,
-          "VARNAME_1": null
+          "VARNAME_1": "Chon Buri"
         }
       }, {
         "type": "MultiPolygon",
@@ -949,12 +949,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "22",
-          "NAME_1": "Lop Buri",
+          "NAME_1": "Lopburi",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "ลพบุรี",
           "ISO": 16,
-          "VARNAME_1": null
+          "VARNAME_1": "Lop Buri"
         }
       }, {
         "type": "MultiPolygon",
@@ -1137,7 +1137,7 @@
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "น่าน",
           "ISO": 55,
-          "VARNAME_1": null
+          "VARNAME_1": "Naan"
         }
       }, {
         "type": "Polygon",
@@ -1166,12 +1166,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "34",
-          "NAME_1": "Nong Bua Lam Phu",
+          "NAME_1": "Nong Bua Lamphu",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "หนองบัวลำภู",
           "ISO": 39,
-          "VARNAME_1": "Nong Bua Lamphu"
+          "VARNAME_1": "Nong Bua Lam Phu"
         }
       }, {
         "type": "Polygon",
@@ -1205,7 +1205,7 @@
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "นนทบุรี",
           "ISO": 12,
-          "VARNAME_1": null
+          "VARNAME_1": "Nontaburi"
         }
       }, {
         "type": "Polygon",
@@ -1609,12 +1609,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "39",
-          "NAME_1": "Phangnga",
+          "NAME_1": "Phang Nga",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "พังงา",
           "ISO": 82,
-          "VARNAME_1": null
+          "VARNAME_1": "Phangnga"
         }
       }, {
         "type": "Polygon",
@@ -1680,7 +1680,7 @@
           "NAME_1": "Phetchaburi",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
-          "NL_NAME_1": "จังหวัดเพชรบุรี",
+          "NL_NAME_1": "เพชรบุรี",
           "ISO": 76,
           "VARNAME_1": "Phetcha Buri|Bejraburi|Petchburi|Phet Buri|Tetchburit"
         }
@@ -1736,7 +1736,7 @@
           "NAME_1": "Phra Nakhon Si Ayutthaya",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
-          "NL_NAME_1": "อยุธยา",
+          "NL_NAME_1": "พระนครอยุธยา",
           "ISO": 14,
           "VARNAME_1": "Phranakhon Si Ayutthaya|Ayudhya|Ayutthaya|Phranakhornsri-ayuthaya"
         }
@@ -1753,7 +1753,7 @@
           "NAME_1": "Phrae",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
-          "NL_NAME_1": "จังหวัดแพร่",
+          "NL_NAME_1": "แพร่",
           "ISO": 54,
           "VARNAME_1": null
         }
@@ -1868,12 +1868,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "49",
-          "NAME_1": "Prachin Buri",
+          "NAME_1": "Prachinburi",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "ปราจีนบุรี",
           "ISO": 25,
-          "VARNAME_1": null
+          "VARNAME_1": "Prachin Buri"
         }
       }, {
         "type": "MultiPolygon",
@@ -2543,12 +2543,12 @@
           "ISO": "THA",
           "NAME_0": "Thailand",
           "ID_1": "62",
-          "NAME_1": "Si Sa Ket",
+          "NAME_1": "Sisaket",
           "TYPE_1": "Changwat",
           "ENGTYPE_1": "Province",
           "NL_NAME_1": "ศรีสะเกษ",
           "ISO": 33,
-          "VARNAME_1": "Sisaket|Khukhan|Khukhandh|Srisaket"
+          "VARNAME_1": "Si Sa Ket|Khukhan|Khukhandh|Srisaket"
         }
       }, {
         "type": "Polygon",
